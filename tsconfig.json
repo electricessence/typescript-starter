@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "module": "umd",
+    "target": "es5",
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "removeComments": false,
+    "moduleResolution": "node"
+  },
+  "exclude": [
+    "source",
+    "node_modules",
+    "bower_components",
+    "dist"
+  ]
+}

@@ -1,0 +1,14 @@
+node_modules
+coverage
+
+# IntelliJ/WebStorm
+.idea/*.iml
+.idea/vcs.xml
+.idea/misc.xml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries/*.xml
+.idea/typescript-compiler.xml
+
+tests/*.js
+tests/*.js.map
